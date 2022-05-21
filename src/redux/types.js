@@ -1,0 +1,4 @@
+export const SET_EXPRESSION = 'SET_EXPRESSION';
+export const DELETE = 'DELETE';
+export const DELETE_ALL = 'DELETE_ALL';
+export const EVALUATE_EXPRESSION = 'EVALUATE_EXPRESSION';
